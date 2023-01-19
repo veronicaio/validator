@@ -1,0 +1,26 @@
+{
+    "name": "veronica/validator",
+    "type": "library",
+    "description": "All about validation in app",
+    "homepage" : "http://veronica-crm.com",
+    "keywords": ["veronica", "validator"],
+    "version" : "5.0.0",
+    "require": {
+        "php": ">5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Veronica\\Validator\\" : "src/Veronica/Validator/",
+            "Veronica\\Validator\\Tests\\" : "tests/Veronica/Validator/Tests/"
+        },
+        "classmap" : {
+            "validator" : "src/validator.php",
+            "ValidatorTest" : "tests/ValidatorTest.php"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
