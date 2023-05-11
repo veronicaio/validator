@@ -15,7 +15,5 @@
             "Veronica\\Validator\\" : "src/Veronica/Validator/",
             "Veronica\\Validator\\Tests\\" : "tests/Veronica/Validator/Tests/"
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
