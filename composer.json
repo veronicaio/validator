@@ -1,8 +1,8 @@
 {
-    "name": "veronica-fondation/validator",
+    "name": "veronicaio/validator",
     "type": "library",
     "description": "All about validation in app",
-    "homepage" : "https://github.com/veroonica-fondation/validator.git",
+    "homepage" : "https://github.com/veronicaio/validator.git",
     "keywords": ["veronica", "validator"],
     "version" : "5.0.0",
     "require": {
