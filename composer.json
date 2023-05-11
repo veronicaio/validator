@@ -1,6 +1,5 @@
 {
     "name": "veronicaio/validator",
-    "type": "library",
     "description": "All about validation in app",
     "homepage" : "https://github.com/veronicaio/validator.git",
     "keywords": ["veronica", "validator"],
